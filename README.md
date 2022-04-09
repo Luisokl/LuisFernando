@@ -4,5 +4,3 @@
 - :rocket:   Com foco no desenvolvimento front-end.
 
 ```
-
-```
